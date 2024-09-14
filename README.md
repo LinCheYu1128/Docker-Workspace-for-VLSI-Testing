@@ -1,6 +1,6 @@
 # Docker Workspace for NYCU VLSI Testing
-Modify by ACAL/Playlab Curriculum
-A dockerized [Ubuntu 20.04](https://hub.docker.com/_/ubuntu/) workspace with all required tools installed for students to enjoy the journey of the ACAL/Playlab curriculum.
+- Modify by ACAL/Playlab Curriculum
+- A dockerized [Ubuntu 20.04](https://hub.docker.com/_/ubuntu/) workspace with all required tools installed for students to enjoy the journey of the ACAL/Playlab curriculum.
 ## Envrionment Requirements
    1. A Linux or Unix-equivelent system (including cygwin).
    2. GCC 3.X.
